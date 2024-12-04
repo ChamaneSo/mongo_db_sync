@@ -1,0 +1,5 @@
+pymongo==4.2.0
+kafka-python==2.0.2
+python-dotenv==1.0.1
+psycopg2-binary
+cryptography

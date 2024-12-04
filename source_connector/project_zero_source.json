@@ -1,0 +1,8 @@
+{
+  "name": "project_zero_source",
+  "config": {
+    "connector.class": "com.mongodb.kafka.connect.MongoSourceConnector",
+    "connection.uri": "mongodb://mongo1:27017",
+    "database": "project_zero"
+  }
+}
